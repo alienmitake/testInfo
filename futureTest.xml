@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="big5" ?>
 <Result Code="0" ServerTime="20220817-145956">
     <Data>
-        <Row AID="" ID="" NANE="çŽ‹è‡ªå‹•" BDATE="20000410" TEL="02-1234568"
-             WTEL="" OTEL="02-1111999" IZIP="710" IADDR="è‡ºå—å¸‚æ°¸åº·å€è¬èˆˆé‡Œé„°æµ·é„°å¤§åŒè¡—102è™Ÿ" CNAME="é™³è‡ªå‹•"
-             CTEL="0954211541" EMAIL="test@fubon.com" NADDR="è‡ºå—å¸‚æ°¸åº·å€è¬èˆˆé‡Œé„°æµ·é„°å¤§åŒè¡—102è™Ÿ" NZIP="710"
-             EMAIL_P6="" NJCUFLAG="Y" ODATE="20130120" CMPY="å¤§å„ªæƒ æ°´æžœè¡Œ" JOB="4" RANK="2" STOCK="" NJSTOCK="" />
+        <Row AID="" ID="" NANE="¤ý¦Û°Ê" BDATE="20000410" TEL="02-1234568"
+             WTEL="" OTEL="02-1111999" IZIP="710" IADDR="»O«n¥«¥Ã±d°Ï¸U¿³¨½¾F®ü¾F¤j¦Pµó102¸¹" CNAMW="³¯¦Û°Ê"
+             CTEL="0954211541" EMAIL="test@fubon.com" NADDR="»O«n¥«¥Ã±d°Ï¸U¿³¨½¾F®ü¾F¤j¦Pµó102¸¹" NZIP="710"
+             EMAIL_P6="" NJCUFLAG="Y" ODATE="20130120" CMPY="¤jÀu´f¤ôªG¦æ" JOB="4" RANK="2" STOCK="" NJSTOCK="" />
     </Data>
 </Result>
