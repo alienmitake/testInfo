@@ -2,11 +2,11 @@
 <Result Code="0" ServerTime="20220817-145956">
     <Data>
         <Row AID="" ID="" NANE="王自動" BDATE="20000410" TEL="02-1234568"
-             WTEL="" OTEL="02-1111999" IZIP="710" IADDR="臺南市永康區萬興里鄰海鄰大同街102號" CNAME="朋友"
+             WTEL="" OTEL="02-1111999" IZIP="710" IADDR="臺南市永康區萬興里鄰海鄰大同街102號" CNAME="陳自動"
              CTEL="0954211541" EMAIL="test@fubon.com" NADDR="臺南市永康區萬興里鄰海鄰大同街102號" NZIP="710"
              EMAIL_P6="" NJCUFLAG="Y" ODATE="20150120" CMPY="大優惠水果行" JOB="4" RANK="2" STOCK="" NJSTOCK="" />
         <Row AID="" ID="" NANE="王自動" BDATE="20000410" TEL="02-1234568"
-             WTEL="" OTEL="02-2222999" IZIP="710" IADDR="臺南市永康區萬興里鄰海鄰大同街102號" CNAME="朋友"
+             WTEL="" OTEL="02-2222999" IZIP="710" IADDR="臺南市永康區萬興里鄰海鄰大同街102號"CNAME="陳自動"
              CTEL="0954211541" EMAIL="test@fubon.com" NADDR="臺南市永康區萬興里鄰海鄰大同街102號" NZIP="710"
              EMAIL_P6="" NJCUFLAG="Y" ODATE="20110120" CMPY="大優惠水果行" JOB="4" RANK="2" STOCK="" NJSTOCK="" />
     </Data>
